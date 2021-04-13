@@ -28,3 +28,12 @@ a.photo:hover {
     padding: 10px;
     transition: padding 0.5s;
 }
+
+.finstagram-post .user-info h2:hover {
+    color: royalblue;
+    transition: color 0.5s;
+}
+
+.finstagram-post .user-info h2 {
+    transition: color 0.5s;
+}
