@@ -30,7 +30,7 @@ a.photo:hover {
 }
 
 .finstagram-post .user-info h2:hover {
-    color: royalblue;
+    color: slategray; 
     transition: color 0.5s;
 }
 
