@@ -37,3 +37,9 @@ a.photo:hover {
 .finstagram-post .user-info h2 {
     transition: color 0.5s;
 }
+
+.form-group {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
