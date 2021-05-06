@@ -1,5 +1,5 @@
 header {
-    background-color: #244751;
+    background-color: #345d92d3;
     color: #e8fdff;
 }
 
@@ -40,6 +40,6 @@ a.photo:hover {
 
 .form-group {
     margin: auto;
-    width: 100%;
-    padding: 10px;
+    margin-bottom: 10px;
+  
 }
